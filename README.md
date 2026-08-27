@@ -162,4 +162,4 @@ Aggregation · `GROUP BY` / `HAVING` · CTEs · window functions (`RANK`, `ROW_N
 
 ## Author
 
-Your Name · [LinkedIn](https://linkedin.com/in/you) · you@email.com
+Your Name · [LinkedIn](https://www.linkedin.com/in/alomairabdulds/) · Omairdata@outlook.com
