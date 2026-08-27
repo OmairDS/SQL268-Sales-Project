@@ -125,7 +125,7 @@ ORDER BY SaleYear;
 
 </details>
 
-All queries: [`sql/`](sql/)
+All queries: [`sql/`](07_business_questions.sql)
 
 ---
 
